@@ -1,0 +1,4 @@
+Install them:using pip or pip3 in your terminal
+1. cffi
+2. cryptography==3.4.6
+3. pycparser==2.20
